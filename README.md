@@ -91,7 +91,7 @@ The analysis provides insights into Netflix's content distribution, ratings, rel
 
 ## 👤 Author
 
-**Rohit**
+**Rohit lal**
 
 Aspiring Data Analyst
 
